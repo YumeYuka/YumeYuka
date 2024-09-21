@@ -18,8 +18,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NightRainMilkyWay)
-
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <picture>
@@ -33,6 +31,7 @@
 与我联系
 
 Gmail : nightrainmilkyway@gmail.com
+
 QQ：   3293811490
 
 ---

@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: production
+      name: NightRainMilkyWay
     permissions:
       contents: write
     steps:
