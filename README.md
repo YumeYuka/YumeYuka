@@ -2,7 +2,7 @@
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FCBFC7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=NightRainMilkyWay)
 
-自由开发者 | 开源爱好者 | 技术博主？
+一名普通的学生 | 开源爱好者
 
 ***这世界很宽容，宽容到绝对可以允许抬高三公分的枪口，也可以宽容到每个人都可以问心无愧的活着。没有人理应去要求你爱这个世界，但我由衷的希望你爱着自己***
 
@@ -13,7 +13,10 @@
 
 关于我
 
-你好！我是***nightrainmilkyway***，一名热爱编程的开发者，我喜欢参与开源项目、学习新技术，并通过博客和演讲分享我的经验
+你好！我是***nightrainmilkyway***，一名热爱编程的学生，我喜欢参与开源项目、学习新技术，并通过[博客](https://nightrainmilkyway.cn/)分享我的经验
+
+当前正在学习的语言 : `C  C++  Kotlin `
+正在写的项目[Tritium box ](https://github.com/TimeBreeze/Tritium_box)
 
 ![Metrics](/github-metrics.svg)
 
@@ -30,9 +33,6 @@
 与我联系
 
 Gmail : nightrainmilkyway@gmail.com
-
-QQ：   3293811490
-
 ---
 
 <!---
