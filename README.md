@@ -2,7 +2,7 @@
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FCBFC7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=NightRainMilkyWay)
 
-一名普通的学生 | 开源爱好者 | 二次元
+一名普通的学生 | 开源爱好者 | 二次元 ？`Ciallo～(∠・ω< )⌒★`
 
 ***这世界很宽容，宽容到绝对可以允许抬高三公分的枪口，也可以宽容到每个人都可以问心无愧的活着。没有人理应去要求你爱这个世界，但我由衷的希望你爱着自己***
 
@@ -13,6 +13,8 @@
 关于我
 
 你好！我是***nightrainmilkyway***，一名热爱编程的学生，喜欢二次元，我喜欢参与开源项目、学习新技术
+
+> *做自己喜欢的事情，不要被别人的眼光所左右.*
 
 当前正在学习的语言 : `C  C++  Kotlin `
 
