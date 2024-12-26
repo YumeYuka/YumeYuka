@@ -14,13 +14,12 @@
 
 你好！我是***nightrainmilkyway***，一名热爱编程的学生，喜欢二次元，我喜欢参与开源项目、学习新技术
 
-> *做自己喜欢的事情，不要被别人的眼光所左右.*
+> *做自己喜欢的事情，不要被别人的眼光所左右.* 
 
 当前正在学习的语言 : `C  C++  Kotlin `
 
-正在写的项目[Tritium box ](https://github.com/TimeBreeze/Tritium_box)
+正在写的项目[Tritium box ](https://github.com/TimeBreeze/Tritium_box) [Intelligen](https://github.com/NightRainMilkyWay/intelligent)
 
-![Metrics](/github-metrics.svg)
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
@@ -32,9 +31,9 @@
 </picture>
 
 
- [![pin1     ][pin1-badge     ]][pin1-profile     ]
+ <!-- [![pin1     ][pin1-badge     ]][pin1-profile     ]
  [![pin2     ][pin2-badge     ]][pin2-profile     ]
- [![pin3     ][pin3-badge     ]][pin3-profile     ]
+ [![pin3     ][pin3-badge     ]][pin3-profile     ] -->
 
 
  <!-- project status banner -->
@@ -51,15 +50,10 @@
 
 [pin3-profile     ]: https://github.com/TimeBreeze/Tritium_docs#gh-light-mode-only
 
-![119764162_p0.png](https://img.nightrainmilkyway.cn/img/119764162_p0.png)
-
-![123103767_p0.jpg](https://img.nightrainmilkyway.cn/img/123103767_p0.jpg)
 
 ![119466142_p0.png](https://img.nightrainmilkyway.cn/img/119466142_p0.png)
 
-![108359728_p0.jpg](https://img.nightrainmilkyway.cn/img/108359728_p0.jpg)
 
-![113845204_p0.jpg](https://img.nightrainmilkyway.cn/img/113845204_p0.jpg)
 ---
 
 <!---
