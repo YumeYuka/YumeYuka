@@ -1,5 +1,5 @@
-![](https://img.nightrainmilkyway.cn/img/20250202225615973.webp)
-![](https://img.nightrainmilkyway.cn/img/20250202225615919.webp)
+![alt text](img/YUmeYuka_1.webp)
+![alt text](img/YumeYuka_2.webp)
 ---
 
 # 💫 梦之魔女的魔法笔记
