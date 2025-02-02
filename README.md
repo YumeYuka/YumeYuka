@@ -1,6 +1,5 @@
-![](https://img.nightrainmilkyway.cn/img/20250202221746198.png)
-![](https://img.nightrainmilkyway.cn/img/20250202221751029.png)
-
+![](https://img.nightrainmilkyway.cn/img/20250202225615973.webp)
+![](https://img.nightrainmilkyway.cn/img/20250202225615919.webp)
 ---
 
 # 💫 梦之魔女的魔法笔记
