@@ -24,7 +24,7 @@
 ——某个调试到天明的夜晚，伊雷娜大人的话语在终端闪烁  
 
 ## **和我一起成为好朋友吧**  
-[[ [点击这里](https://YumeYuka.cn) ]] 参观魔女的魔法工坊 → github.com/YumeYuka
+### [点击这里](https://YumeYuka.cn)  参观魔女的魔法工坊 → YumeYuka.cn
 
 ---
 
