@@ -28,7 +28,7 @@
 
 ---
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-south-season.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NightRainMilkyWay/NightRainMilkyWay/output/github-contribution-grid-snake-dark.svg">
