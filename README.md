@@ -12,11 +12,13 @@
 （偶尔会念错咒语导致程序爆炸💥）
 
 ## **魔法实验室：**  
+
+✧ [Suu-Nyanya](https://github.com/YumeYuka/Suu-Nyanya)  
+——  试图用代码编织出会思考的魔法生物  
+
 ✧ [Tritium box](https://github.com/TimeBreeze/Tritium_box)  
 —— 一个装满星光的魔法匣子，正在收集月光的能量  
 
-✧ [Intelligen](https://github.com/YumeYuka/intelligent)  
-—— 试图用代码编织出会思考的魔法生物  
 
 ## **魔女日记摘抄：**  
 "这世界很宽容，宽容到允许抬高三公分的枪口，也宽容到每个人都可以问心无愧地活着。没有人理应要求你爱这个世界，但我由衷希望你爱着自己。"  
@@ -25,6 +27,7 @@
 
 ## **和我一起成为好朋友吧**  
 ### [点击这里](https://YumeYuka.cn)  参观魔女的魔法工坊 → YumeYuka.cn
+**欢迎与我交换友链，喵喵喵~**
 
 ---
 
