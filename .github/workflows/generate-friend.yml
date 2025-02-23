@@ -1,0 +1,32 @@
+name: Generate Friend Link Images
+
+on:
+  push:
+    paths:
+      - friends.json
+
+jobs:
+  generate-images:
+    runs-on: Ubuntu-20.04
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          pip install Pillow requests
+      - name: Generate images
+        run: |
+          python generate_images.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add images/*
+          git commit -m "Update friend link images"
+          git push
