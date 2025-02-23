@@ -1,5 +1,7 @@
 ![](https://img.nightrainmilkyway.cn/img/20250202225615973.webp)
 ---
+
+
 <div align="center">
 
 # 💫 梦之魔女的魔法笔记
@@ -44,6 +46,31 @@
 ### [点击这里](https://YumeYuka.cn)  参观魔女的魔法工坊 → YumeYuka.cn
 **欢迎与我交换友链，喵喵喵~**
 
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="display: flex; align-items: center; background: #ffffff; border-radius: 40px; padding: 20px; width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div style="margin-right: 20px;">
+      <a href="https://github.com/YumeYukal">
+        <img src="https://github.com/Fengying1314.png" alt="FengYing" width="100" height="100" style="border-radius: 50%;">
+      </a>
+    </div>
+    <div style="text-align: left;">
+      <h3 style="margin: 0; font-size: 20px;">枫莹</h3>
+      <p style="margin: 10px 0; color: #666; font-size: 16px;">一起喵喵喵.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; background: #ffffff; border-radius: 40px; padding: 20px; width: 350px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div style="margin-right: 20px;">
+      <a href="https://github.com/GunRain">
+        <img src="https://github.com/GunRain.png" alt="GunRain" width="100" height="100" style="border-radius: 50%;">
+      </a>
+    </div>
+    <div style="text-align: left;">
+      <h3 style="margin: 0; font-size: 20px;">咲汀</h3>
+      <p style="margin: 10px 0; color: #666; font-size: 16px;">虽然名为枪雨，但是我现在还不会造枪.</p>
+    </div>
+  </div>
 </div>
 
 ---
