@@ -17,14 +17,14 @@
 
 #### **正在研习的古老咒语；**  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,pythob&theme=light)](https://skillicons.dev)  
 （偶尔会念错咒语导致程序爆炸💥）  
 
 #### **使用的魔法杖；**
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,androidstudio&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,pycharm,androidstudio,&theme=light)](https://skillicons.dev)
 
 #### **未来想学习的魔法；**
-[![My Skills](https://skillicons.dev/icons?i=vue,vite,react,python,java,javascript,go,flutter&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,vite,react,java,javascript,go,flutter&theme=light)](https://skillicons.dev)
 
 ## **魔法实验室：**
 
