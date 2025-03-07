@@ -8,6 +8,7 @@
 `Ciallo～(∠・ω< )⌒★` 这里是游走在代码与幻想之间的见习魔女，伊雷娜大人的忠实学徒~
 
 ## **魔女修业中：**
+
 <div align="center">
     <img src="https://img.shields.io/badge/C-开发萌新-fcbfc7?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-初窥门径-fcbfc7?style=for-the-badge&logoColor=white" />
@@ -16,15 +17,27 @@
 </div>
 
 #### **正在研习的古老咒语；**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,python&theme=light" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,python&theme=light)](https://skillicons.dev)  
 （偶尔会念错咒语导致程序爆炸💥）  
 
-#### **使用的魔法杖；**
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,androidstudio,&theme=light)](https://skillicons.dev)
+#### **使用的魔法杖；**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,clion,pycharm,androidstudio,&theme=light" />
+  </a>
+</p>
 
 #### **未来想学习的魔法；**
-[![My Skills](https://skillicons.dev/icons?i=vue,vite,react,java,javascript,go,cs,flutter&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,vite,react,java,javascript,go,cs,flutter&theme=light" />
+  </a>
+</p>
 
 ## **魔法实验室：**
 
@@ -36,9 +49,9 @@
 
 ## **魔女日记摘抄：**
 
-"这世界很宽容，宽容到允许抬高三公分的枪口，也宽容到每个人都可以问心无愧地活着。没有人理应要求你爱这个世界，但我由衷希望你爱着自己。"  
+**"这世界很宽容，宽容到允许抬高三公分的枪口，也宽容到每个人都可以问心无愧地活着。没有人理应要求你爱这个世界，但我由衷希望你爱着自己。"**
 
-——某个调试到天明的夜晚，伊雷娜大人的话语在终端闪烁  
+——***某个调试到天明的夜晚，伊雷娜大人的话语在终端闪烁***
 
 ## **和我一起成为好朋友吧**
 
@@ -50,6 +63,7 @@
 ---
 
 ![](./profile-3d-contrib/profile-south-season.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NightRainMilkyWay/NightRainMilkyWay/output/github-contribution-grid-snake-dark.svg">
