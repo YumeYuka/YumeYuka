@@ -1,0 +1,25 @@
+name: Run Friends Script
+
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  run-friends-js:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3.7.0
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run friends.js
+        run: node friends.js
