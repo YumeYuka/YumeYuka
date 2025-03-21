@@ -14,12 +14,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3.7.0
+        uses: actions/setup-node@v2
         with:
           node-version: "18"
 
       - name: Install dependencies
         run: npm install
 
-      - name: Run friends.js
-        run: node friends.js
+      - name: Run friends.js with no sandbox
+        run: node friends.js --no-sandbox
+        env:
+          PUPPETEER_EXECUTABLE_PATH: "$(which google-chrome-stable)"
