@@ -1,3 +1,5 @@
+<!-- Updated formatting and syntax for better readability and consistency -->
+
 ![](https://img.nightrainmilkyway.cn/img/20250202225615973.webp)
 ---
 
@@ -9,39 +11,32 @@
 
 ## **魔女修业中：**
 <div align="center">
-    <img src="https://img.shields.io/badge/C-开发萌新-fcbfc7?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-初窥门径-fcbfc7?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/爱好-编程和游戏-fcbfc7?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/梦想-变成喜欢的人-fcbfc7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/C-开发萌新-fcbfc7?style=for-the-badge&logoColor=white" alt="C 开发萌新" />
+    <img src="https://img.shields.io/badge/C++-初窥门径-fcbfc7?style=for-the-badge&logoColor=white" alt="C++ 初窥门径" />
+    <img src="https://img.shields.io/badge/爱好-编程和游戏-fcbfc7?style=for-the-badge" alt="爱好 编程和游戏" />
+    <img src="https://img.shields.io/badge/梦想-变成喜欢的人-fcbfc7?style=for-the-badge" alt="梦想 变成喜欢的人" />
 </div>
 
 #### **正在研习的古老咒语；**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,python&theme=light" alt="技能图标" />
   </a>
 </p>
 
 （偶尔会念错咒语导致程序爆炸💥）  
 
-#### **使用的魔法杖；**  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,clion,pycharm,androidstudio,&theme=light" />
-  </a>
-</p>
-
 #### **未来想学习的魔法；**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,react,java,javascript,go,cs,flutter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,react,java,javascript,go,cs,flutter&theme=light" alt="未来技能图标" />
   </a>
 </p>
 
 ## **魔法实验室：**
 
 ✧ [Suu-Nyanya](https://github.com/YumeYuka/Suu-Nyanya)  
-——  试图用代码编织出会思考的魔法生物  
+—— 试图用代码编织出会思考的魔法生物  
 
 ✧ [Tritium box](https://github.com/TimeBreeze/Tritium_box)  
 —— 一个装满星光的魔法匣子，正在收集月光的能量  
@@ -54,15 +49,14 @@
 
 ## **和我一起成为好朋友吧**
 
-### [点击这里](https://YumeYuka.cn)  参观魔女的魔法工坊 → YumeYuka.cn
+### [点击这里](https://YumeYuka.cn) 参观魔女的魔法工坊 → YumeYuka.cn
 **欢迎与我交换友链，喵喵喵~**
 
-![alt text](friends_layout.png)
+![Friedns](friends_layout.png)
 
 ---
 
 ![](./profile-3d-contrib/profile-south-season.svg)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NightRainMilkyWay/NightRainMilkyWay/output/github-contribution-grid-snake-dark.svg">
@@ -71,10 +65,9 @@
 </picture>
 
 ![](https://img.nightrainmilkyway.cn/img/20250202225615919.webp)
-
 ---
 
 <!---
-NightRainMilkyWay/NightRainMilkyWay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YumeYuka/YumeYuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
