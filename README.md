@@ -9,7 +9,6 @@
   <b>这里是游走在代码与幻想之间的见习魔女，伊雷娜大人的忠实学徒~</b>
 </p>
 
----
 
 <div align="center">
 
@@ -20,7 +19,6 @@
 
 </div>
 
----
 
 <h3 align="center">🔮 正在研习的古老咒语</h3>
 <p align="center">
@@ -33,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=go,ts,js,react,vue,cs,java&theme=light" alt="未来技能" />
 </p>
 
----
 
 <h2 align="center">🧪 魔法实验室</h2>
 
@@ -46,7 +43,6 @@
   <span style="font-size:13px;">一个装满星光的魔法匣子，正在收集月光的能量</span>
 </p>
 
----
 
 <h2 align="center">📖 魔女日记摘抄</h2>
 
@@ -57,7 +53,6 @@
   <em>—— 某个调试到天明的夜晚，伊雷娜大人的话语在终端闪烁</em>
 </blockquote>
 
----
 
 <h2 align="center">🤝 和我一起成为好朋友吧！</h2>
 
@@ -70,7 +65,6 @@
   <img src="friends_layout.png"/>
 </p>
 
----
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-south-season.svg"/>
