@@ -27,13 +27,7 @@
   <img src="https://skillicons.dev/icons?i=go,ts,js,react,vue,cs,java&theme=light" alt="未来技能" />
 </p>
 
-<p align="center">
-  <img src="gif/0.gif" style="height:48px;"/>
-  <img src="gif/29.gif" style="height:48px;"/>
-  <img src="gif/11.gif" style="height:48px;"/>
-  <img src="gif/24.gif" style="height:48px;"/>
-  <img src="gif/25.gif" style="height:48px;"/>
-</p>
+
 
 <h2 align="center"><img src="gif/43.gif" style="height:48px;vertical-align:middle;"/> 魔女的小窝</h2>
 <p align="center">
@@ -80,11 +74,23 @@
   <img src="friends_layout.png"/>
 </p>
 
-
-
-
 <p align="center">
-  <img src="./profile-3d-contrib/profile-south-season.svg"/>
+  <span>
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=YumeYuka&show_icons=true&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+      alt="YumeYuka's GitHub stats"
+      style="display:inline-block;vertical-align:middle;"
+    />
+  </span>
+  <span>
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeYuka&layout=compact&hide=html&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+      alt="Top Langs"
+      style="display:inline-block;vertical-align:middle;"
+    />
+  </span>
 </p>
 
 <p align="center">
