@@ -7,25 +7,7 @@
 <h1>梦之魔女的魔法笔记</h1>
 
 <p><em>Ciallo～(∠・ω< )⌒★</em><br>
-这里是游走在代码与幻想之间的见习魔女，伊雷娜大人的忠实学徒~</p>
-
-<p>
-  <img src="https://img.shields.io/badge/C-开发萌新-fcbfc7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-初窥门径-fcbfc7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/爱好-编程和游戏-fcbfc7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/梦想-变成喜欢的人-fcbfc7?style=for-the-badge" />
-</p>
-
-<h3>正在研习的古老咒语</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,python&theme=light" alt="技能图标" />
-</p>
-<p style="font-size:14px;">（偶尔会念错咒语导致程序爆炸💥）</p>
-
-<h3>未来想学习的魔法</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,react,vue,cs,java&theme=light" alt="未来技能" />
-</p>
+这里是游走在代码与幻想之间的见习魔女</p>
 
 <h2>魔女的小窝</h2>
 <p>
