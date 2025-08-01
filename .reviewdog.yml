@@ -1,0 +1,18 @@
+runner:
+  # 如果你用 ESLint (JavaScript/TypeScript)
+  eslint:
+    cmd: 'npx eslint --format unix .'
+    format: unix
+    name: eslint
+  
+  # 如果你用 Python + flake8
+  flake8:
+    cmd: 'flake8 --format="%(path)s:%(row)d:%(col)d: %(code)s %(text)s"'
+    format: flake8
+    name: flake8
+  
+  # 如果你用 Go + golangci-lint
+  golangci-lint:
+    cmd: 'golangci-lint run --out-format line-number'
+    format: golangci-lint
+    name: golangci-lint
