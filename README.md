@@ -1,69 +1,69 @@
 <div align="center">
-  <img src="./img/Yume_5.webp" alt="banner" />
+  <img src="./img/Yume_5.webp" alt="横幅图片" />
 </div>
 
 <div align="center">
 
-# ✨ 夢の魔女の魔法ノート ✨
+# ✨ 梦之魔女的魔法笔记 ✨
 
 *Ciallo～(∠・ω< )⌒★*  
-こちらはコードと幻想の間を彷徨う見習い魔女です～  
-*( ˘ω˘ ) 毎日新しい魔法の呪文（コード）を勉強中です！*
+这里是一位在代码与幻想之间徘徊的见习小魔女～  
+*( ˘ω˘ ) 每天都在学习新的魔法咒语（代码）！*
 
-## 📖 魔女の日記抄録
+## 📖 魔女日记摘录
 
-> **「この世界はとても寛容で、3センチ高く向けられた銃口も許してくれるし、誰もが問題なく生きていけることも許してくれる。  
-> 誰もあなたにこの世界を愛せとは要求しないけれど、心から自分自身を愛してほしいと願っています。」**
+> 「这世界很宽容，宽容到绝对可以允许抬高三公分的枪口，也可以宽容到每个人都可以问心无愧的活着。
+> 没有人理应去要求你爱这个世界，但我由衷的希望你爱着自己。」
 >
-> *—— デバッグで夜明けまで過ごしたある夜、ターミナルに点滅するイレイナ様の言葉 ✨  
-> その時の私は縫いぐるみを抱えて、ちょっと目が潤んでいました... (´；ω；`)*
+> —— 某个通宵调试的夜晚，终端里闪烁着伊蕾娜大人的话语 ✨  
+> 那时的我抱着玩偶，眼眶都微微湿润了... (´；ω；`)
 
-## 🌸 一緒にお友達になりましょう！
+## 🌸 一起来做朋友吧！
 
-**✨ [魔女の魔法工房を見学する → YumeYuka.plus](https://YumeYuka.plus) ✨**
+**✨ [参观魔女的魔法工房 → YumeYuka.plus](https://YumeYuka.plus) ✨**
 
-*相互リンクを交換して、インターネットの星海で一緒にキラキラ輝きましょう～ (｡♥‿♥｡)  
-コメントを残してくれると、とても嬉しいです！ ♪(´▽｀)*
+*交换友链吧，在互联网的星海中一起闪闪发光～ (｡♥‿♥｡)  
+如果能留下评论，我会超级开心的！ ♪(´▽｀)*
 
 ![friends](./friends_layout.png)
 
-## 🏠 魔女の温かい小屋
+## 🏠 魔女的温暖小屋
 
-**💕 [魔女会に参加する](https://join.oom-wg.dev) 💕**
+**💕 [加入魔女会](https://join.oom-wg.dev) 💕**
 
-*魔女の小屋へようこそ、もっとたくさんの仲間と魔法とコードについて語り合いましょう！  
-ここではたくさんの面白い魂に出会えますよ～ (◕‿◕)✨*
+*欢迎来到魔女的小屋，一起和更多小伙伴聊聊魔法与代码！  
+在这里你会遇见许多有趣的灵魂～ (◕‿◕)✨*
 
-<img src="./img/Yume_4.webp" alt="banner" />
+<img src="./img/Yume_4.webp" alt="横幅图片" />
 
-## 🎀 この小さな魔女について
+## 🎀 关于这位小魔女
 
-**• 萌え属性：** 技術オタク + 二次元 + 軽い人見知りだけど優しい (,,•﹏•,,)  
-**• 得意魔法：** フロントエンド呪文、バックエンド結界、アルゴリズム占い  
-**• 好きなこと：** 可愛いコードを書く、アニメ鑑賞、可愛いものコレクション  
-**• 小さな癖：** コメントに顔文字を書くのが好き、コードも感情が必要だと思ってます ♡  
-**• 私の弱点：** 褒められると煙が出るほど恥ずかしくなっちゃいます～ (๑•́ ₃ •̀๑)
+**• 萌系属性：** 技术宅 + 二次元 + 微微社恐但很温柔 (,,•﹏•,,)  
+**• 拿手魔法：** 前端咒语、后端结界、算法占卜  
+**• 喜欢的事：** 写可爱的代码、看动画、收藏可爱的小物  
+**• 小习惯：** 喜欢在注释里写颜文字，觉得代码也需要情感 ♡  
+**• 我的弱点：** 一被夸就会害羞到冒烟～ (๑•́ ₃ •̀๑)
 
 </div>
 
 <div align="center">
-  <img src="./img/Yume_3.webp" alt="banner" />
+  <img src="./img/Yume_3.webp" alt="横幅图片" />
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3d-contribution" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D 贡献图动画" />
 </div>
 
 <div align="center">
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=YumeYuka&show_icons=true&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
-    alt="YumeYukaのGitHub統計"
+    alt="YumeYuka 的 GitHub 统计"
   />
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeYuka&layout=compact&hide=html&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
-    alt="よく使用する言語"
+    alt="常用语言"
   />
 </div>
 
@@ -71,16 +71,16 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NightRainMilkyWay/NightRainMilkyWay/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NightRainMilkyWay/NightRainMilkyWay/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NightRainMilkyWay/NightRainMilkyWay/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub 贡献贪吃蛇动画" src="https://raw.githubusercontent.com/NightRainMilkyWay/NightRainMilkyWay/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <div align="center">
 
-### 💌 最後の小さな想い
+### 💌 最后的小小心愿
 
-*ここまで見てくれてありがとうございます～ (´∀｀)♡  
-この小さな魔女がまあまあだと思ったら、⭐️をつけてくださいね！  
-一緒にコードの世界で、もっとたくさんの素敵な魔法を織りなしていきましょう～ ✨*
+*谢谢你看到这里～ (´∀｀)♡  
+如果觉得这个小魔女还不错，记得点个 ⭐️ 哦！  
+让我们一起在代码的世界里，编织出更多美妙的魔法～ ✨*
 
 </div>
