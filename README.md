@@ -36,8 +36,8 @@
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=YumeYuka&show_icons=true&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
-    alt="YumeYuka 的 GitHub 统计"
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=YumeYuka&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+  alt="YumeYuka 的 GitHub 统计"
   />
   <img
     height="180"
