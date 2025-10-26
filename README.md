@@ -1,7 +1,6 @@
 ## 梦璃魔女的小本本
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1; text-align: left;">
+<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="180" align="right" style="margin-left: 15px;">
 
 Ciallo～(∠・ω< )⌒★
 
@@ -11,10 +10,6 @@ Ciallo～(∠・ω< )⌒★
 白天，我在编辑器里调试程序；夜晚，就窝在被窝里追番或刷二创视频。偶尔也会打开原神，在提瓦特放空漫步，但更多时候，我沉浸在二次元的世界里。在代码和二次元之间徘徊，调整生活频道到最适合自己的状态，用技术编织属于自己的小天地。
 
 > 「这世界很宽容，宽容到绝对可以允许抬高三公分的枪口，也可以宽容到每个人都可以问心无愧的活着。没有人理应去要求你爱这个世界，但我由衷的希望你爱着自己。」
-
-  </div>
-
-  <img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="180">
 
 </div>
 
