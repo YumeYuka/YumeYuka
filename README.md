@@ -1,7 +1,7 @@
 ## 梦璃魔女的小本本
 
 ### Ciallo～(∠・ω< )⌒★
-<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="200" align="right" style="margin-left: 15px;">
+<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="180" align="right" style="margin-left: 15px;">
 
 
 我是梦璃，一名喜欢写代码、也喜欢追番和二创的小学生。每天都在学习新的知识，尤其偏爱 **C++** 和 **Kotlin**，但对 **Java**
