@@ -1,42 +1,20 @@
-<div align="center">
 
 ![横幅图片](https://r2.yumeyuka.icu/2025/09/30ec9b49fac50e017b72e5ecee27751b.webp)
 
+## 梦璃魔女的小本本
 
-# ✨ 梦璃魔女的魔法笔记 ✨
+Ciallo～(∠・ω< )⌒★
 
-*Ciallo～(∠・ω< )⌒★*  
-我是梦璃，一名在代码与幻想之间徘徊的见习小魔女，每天都在学习新的魔法咒语（代码）！
+我是梦璃，一名喜欢写代码、也喜欢追番和二创的小学生。每天都在学习新的知识，尤其偏爱 C++ 和 Kotlin，但对 Java
+提不起兴趣。最近迷上了前端开发，想用技术做出既好看又实用的作品。伊蕾娜是我最喜欢的角色，总能给我带来安定的力量。
 
-## 魔女日记摘录
+白天，我在编辑器里调试程序；夜晚，就窝在被窝里追番或刷二创视频。偶尔也会打开原神，在提瓦特放空漫步，但更多时候，我沉浸在二次元的世界里。在代码和二次元之间徘徊，调整生活频道到最适合自己的状态，用技术编织属于自己的小天地。
 
-> 「这世界很宽容，宽容到绝对可以允许抬高三公分的枪口，也可以宽容到每个人都可以问心无愧的活着。
-> 没有人理应去要求你爱这个世界，但我由衷的希望你爱着自己。」
-
-## 梦璃酱的自述
-
-一名喜欢写代码、也喜欢追番和二创的小学生  
- 在代码和二次元之间徘徊，把生活调成自己喜欢的频道
-
-  **偏爱 C++ 和 Kotlin，不喜欢 Java**
-  
-  **正在学习前端技术，想做出好看又实用的作品**
-  
-  **最喜欢的角色是 亚托莉**
-  
-  **偶尔玩原神，更多时候沉浸在番剧和二创里**
+> 「这世界很宽容，宽容到绝对可以允许抬高三公分的枪口，也可以宽容到每个人都可以问心无愧的活着。没有人理应去要求你爱这个世界，但我由衷的希望你爱着自己。」
 
 ## 关于这位小魔女
 
-
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <!-- 上面两张图片并排 -->
-  <div style="display: flex; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YumeYuka&theme=transparent&exclude=Shell,JavaScript,HTML" style="height: 180px;"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YumeYuka&theme=transparent&exclude=Shell,JavaScript,HTML" style="height: 180px;"/>
-  </div>
-  
-  <!-- 下面两张图片并排 -->
   <div style="display: flex; gap: 10px;">
     <img
       height="180"
@@ -49,4 +27,3 @@
       alt="常用语言"
     />
   </div>
-</div>
