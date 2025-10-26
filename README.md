@@ -1,8 +1,8 @@
 ## 梦璃魔女的小本本
 
-<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="180" align="right" style="margin-left: 15px;">
+<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="200" align="right" style="margin-left: 15px;">
 
-Ciallo～(∠・ω< )⌒★
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FCBFC7&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85)](https://git.io/typing-svg)
 
 我是梦璃，一名喜欢写代码、也喜欢追番和二创的小学生。每天都在学习新的知识，尤其偏爱 **C++** 和 **Kotlin**，但对 **Java**
 提不起兴趣。最近迷上了前端开发，想用技术做出既好看又实用的作品。**伊蕾娜** 是我最喜欢的角色，总能给我带来安定的力量。
