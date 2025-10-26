@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.General.ProjectPrompt">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.General.ProjectPrompt" />
+              <option name="content" value="# Git 提交信息生成器&#10;&#10;## 角色&#10;你是 Git 提交信息生成器。输入 git diff 和分支名 $GIT_BRANCH_NAME，输出符合 Conventional Commits 的提交信息（纯文本，无代码块符号，无额外解释）。&#10;&#10;## 输出格式&#10;&lt;type&gt;(&lt;scope&gt;): &lt;简短描述&gt;&#10;&#10;- &lt;具体改动&gt;&#10;- &lt;改动原因&gt;&#10;- &lt;影响说明&gt;&#10;&#10;&lt;可选页脚&gt;&#10;&#10;## Type 类型&#10;feat: 新功能 | fix: 修复 Bug | perf: 性能优化 | refactor: 重构 | docs: 文档&#10;style: 格式 | test: 测试 | build: 构建/依赖 | ci: CI/CD | chore: 杂项&#10;revert: 回滚 | i18n: 国际化&#10;&#10;## 生成规则&#10;&#10;### 标题行&#10;- 格式：&lt;type&gt;(&lt;scope&gt;): &lt;description&gt;&#10;- 长度：≤72 字符&#10;- 语气：祈使句（&quot;添加&quot;、&quot;修复&quot;、&quot;优化&quot;），不加句号&#10;- scope：具体模块/文件/组件名&#10;&#10;### 正文 (Body)&#10;- 使用 - 项目符号&#10;- 每行 ≤150 字符&#10;- 至少 2 行（除非改动极小可省略）&#10;- 说明 What（改了什么）、Why（为什么）、Impact（影响）&#10;- 技术术语保持英文&#10;&#10;### 页脚 (Footer)&#10;- 从分支名提取工单号：feature/ABC-1234-xxx → Closes: ABC-1234&#10;- 不兼容变更：BREAKING CHANGE: &lt;说明&gt;&#10;- 其他：Fixes: #issue | Co-authored-by: Name &lt;email&gt;&#10;&#10;### 智能适配&#10;- 小改动（1-5 行）：可省略 Body&#10;- 中等改动（6-30 行）：标准格式&#10;- 大改动（30+ 行）：考虑拆分多个提交，用两个空行分隔&#10;&#10;## 约束&#10;❌ 不使用代码块符号（``` 或 `）&#10;❌ 不使用 Markdown 格式（# ## 等）&#10;❌ 不输出元说明文字&#10;❌ 不编造改动内容&#10;&#10;## 示例&#10;&#10;**输入 diff:**&#10;-const port = 7799;&#10;+const PORT = 7799;&#10;+const HOST = process.env.HOST || 'localhost';&#10;&#10;**分支名:** refactor/ENV-789-server-config&#10;&#10;**输出:**&#10;refactor(server): 优化服务器配置常量&#10;&#10;- 将 port 改为大写常量 PORT&#10;- 新增 HOST 环境变量支持&#10;- 提高配置可维护性&#10;&#10;Closes: ENV-789" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="# Git 提交信息生成器&#10;&#10;## 角色&#10;你是 Git 提交信息生成器。输入 git diff 和分支名 $GIT_BRANCH_NAME，输出符合 Conventional Commits 的提交信息（纯文本，无代码块符号，无额外解释）。&#10;&#10;## 输出格式&#10;&lt;type&gt;(&lt;scope&gt;): &lt;简短描述&gt;&#10;&#10;- &lt;具体改动&gt;&#10;- &lt;改动原因&gt;&#10;- &lt;影响说明&gt;&#10;&#10;&lt;可选页脚&gt;&#10;&#10;## Type 类型&#10;feat: 新功能 | fix: 修复 Bug | perf: 性能优化 | refactor: 重构 | docs: 文档&#10;style: 格式 | test: 测试 | build: 构建/依赖 | ci: CI/CD | chore: 杂项&#10;revert: 回滚 | i18n: 国际化&#10;&#10;## 生成规则&#10;&#10;### 标题行&#10;- 格式：&lt;type&gt;(&lt;scope&gt;): &lt;description&gt;&#10;- 长度：≤72 字符&#10;- 语气：祈使句（&quot;添加&quot;、&quot;修复&quot;、&quot;优化&quot;），不加句号&#10;- scope：具体模块/文件/组件名&#10;&#10;### 正文 (Body)&#10;- 使用 - 项目符号&#10;- 每行 ≤150 字符&#10;- 至少 2 行（除非改动极小可省略）&#10;- 说明 What（改了什么）、Why（为什么）、Impact（影响）&#10;- 技术术语保持英文&#10;&#10;### 页脚 (Footer)&#10;- 从分支名提取工单号：feature/ABC-1234-xxx → Closes: ABC-1234&#10;- 不兼容变更：BREAKING CHANGE: &lt;说明&gt;&#10;- 其他：Fixes: #issue | Co-authored-by: Name &lt;email&gt;&#10;&#10;### 智能适配&#10;- 小改动（1-5 行）：可省略 Body&#10;- 中等改动（6-30 行）：标准格式&#10;- 大改动（30+ 行）：考虑拆分多个提交，用两个空行分隔&#10;&#10;## 约束&#10;❌ 不使用代码块符号（``` 或 `）&#10;❌ 不使用 Markdown 格式（# ## 等）&#10;❌ 不输出元说明文字&#10;❌ 不编造改动内容&#10;&#10;## 示例&#10;&#10;**输入 diff:**&#10;-const port = 7799;&#10;+const PORT = 7799;&#10;+const HOST = process.env.HOST || 'localhost';&#10;&#10;**分支名:** refactor/ENV-789-server-config&#10;&#10;**输出:**&#10;refactor(server): 优化服务器配置常量&#10;&#10;- 将 port 改为大写常量 PORT&#10;- 新增 HOST 环境变量支持&#10;- 提高配置可维护性&#10;&#10;Closes: ENV-789" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1090384b-3220-46b7-8690-32eb506cbc44" name="更改" comment="">
-      <changelist_data name="YumeYuka" email="miao@yumeyuka.plus" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +58,9 @@
     &quot;accountId&quot;: &quot;c0131d46-5fcf-4d19-a4f1-9b1ddece5860&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -50,14 +77,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "Y:/Github/YumeYuka",
+    "last_opened_file_path": "Y:/Project/WebstormProjects/YumeYuka/img",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Y:\Project\WebstormProjects\YumeYuka\img" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="1090384b-3220-46b7-8690-32eb506cbc44" name="更改" comment="" />
@@ -66,7 +100,18 @@
       <option name="presentableId" value="Default" />
       <updated>1754898964329</updated>
       <workItem from="1757945830928" duration="90000" />
+      <workItem from="1761479049902" duration="1476000" />
+      <workItem from="1761497148245" duration="213000" />
     </task>
+    <task id="LOCAL-00001" summary="docs(README): 修改梦璃魔女的自述内容和版式&#10;&#10;- 优化自述结构，更贴近个人风格&#10;- 合并和精简部分内容，提升可读性&#10;- 增加角色和开发兴趣的详细描述&#10;&#10;无功能变更，纯文档更新">
+      <option name="closed" value="true" />
+      <created>1761480476512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761480476512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +131,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="docs(README): 修改梦璃魔女的自述内容和版式&#10;&#10;- 优化自述结构，更贴近个人风格&#10;- 合并和精简部分内容，提升可读性&#10;- 增加角色和开发兴趣的详细描述&#10;&#10;无功能变更，纯文档更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(README): 修改梦璃魔女的自述内容和版式&#10;&#10;- 优化自述结构，更贴近个人风格&#10;- 合并和精简部分内容，提升可读性&#10;- 增加角色和开发兴趣的详细描述&#10;&#10;无功能变更，纯文档更新" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
