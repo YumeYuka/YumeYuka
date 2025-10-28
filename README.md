@@ -35,5 +35,3 @@
     alt="YumeYuka 的常用语言"
   />
 </picture>
-
-<picture>
