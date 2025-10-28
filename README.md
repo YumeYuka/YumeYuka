@@ -16,22 +16,25 @@
 
 ## 关于这位小魔女 
 
-<!-- GitHub 统计卡片（自动适应深浅主题） -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?theme=onedark&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=262a2e,31353a&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4">
-  <img
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api?theme=light&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
-    alt="YumeYuka 的 GitHub 统计"
-  />
-</picture>
+<!-- 统计和语言卡片并排显示 -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <!-- GitHub 统计卡片（自动适应深浅主题） -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?theme=onedark&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=262a2e,31353a&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4">
+    <img
+      height="180"
+      src="https://github-readme-stats-one-bice.vercel.app/api?theme=light&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+      alt="YumeYuka 的 GitHub 统计"
+    />
+  </picture>
 
-<!-- 常用语言卡片（自动适应深浅主题） -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=onedark&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&bg_color=262a2e,31353a&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4">
-  <img
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=light&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook%20html,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
-    alt="YumeYuka 的常用语言"
-  />
-</picture>
+  <!-- 常用语言卡片（自动适应深浅主题） -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=onedark&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&bg_color=262a2e,31353a&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4">
+    <img
+      height="180"
+      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=light&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+      alt="YumeYuka 的常用语言"
+    />
+  </picture>
+</div>
