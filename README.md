@@ -25,7 +25,7 @@
     />
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeYuka&layout=compact&hide=html&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeYuka&layout=compact&hide=html&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&hide=Jupyter%20Notebook,MATLAB">
       alt="常用语言"
     />
   </div>
