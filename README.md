@@ -1,7 +1,7 @@
 ## 梦璃魔女的小本本
 
  **Ciallo～(∠・ω< )⌒★**
-<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="190" align="right" style="margin-left: 15px;">
+<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="180" align="right" style="margin-left: 15px;">
 
 
 我是梦璃，一名喜欢写代码、也喜欢追番和二创的小学生。每天都在学习新的知识，尤其偏爱 **C++** 和 **Kotlin**，但对 **Java**
@@ -14,18 +14,26 @@
 </div>
 
 
-## 关于这位小魔女
+## 关于这位小魔女 
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="display: flex; gap: 10px;">
-    <img
-      height="180"
-      src="https://github-readme-stats-one-bice.vercel.app/api?username=YumeYuka&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
-      alt="YumeYuka 的 GitHub 统计"
-    />
-    <img
-      height="180"
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeYuka&layout=compact&hide=html&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&hide=Jupyter%20Notebook,MATLAB">
-      alt="常用语言"
-    />
-  </div>
+<!-- GitHub 统计卡片（自动适应深浅主题） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?theme=onedark&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=262a2e,31353a&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4">
+  <img
+    height="180"
+    src="https://github-readme-stats-one-bice.vercel.app/api?theme=light&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+    alt="YumeYuka 的 GitHub 统计"
+  />
+</picture>
+
+<!-- 常用语言卡片（自动适应深浅主题） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=onedark&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&bg_color=262a2e,31353a&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4">
+  <img
+    height="180"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=light&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook%20html,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&bg_color=fff0f6,ffe4ec&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+    alt="YumeYuka 的常用语言"
+  />
+</picture>
+
+<picture>
