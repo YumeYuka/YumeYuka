@@ -1,7 +1,7 @@
 ## 梦璃魔女的小本本
 
  **Ciallo～(∠・ω< )⌒★**
-<img src="img/20251027_003616_upscayl_3x_upscayl-standard-4x.png" alt="梦璃酱" width="170" align="right" style="margin-left: 15px;">
+<img src="img/ResizedImage_2025-11-28_19-01-00_1.png" alt="梦璃酱" width="170" align="right" style="margin-left: 15px;">
 
 
 我是梦璃，一个喜欢写代码、也喜欢追番的小学生。每天都在学新的东西，尤其偏爱 **C++** 和 **Kotlin**，对 **Java** 的兴趣始终提不起来。最近迷上了前端开发，想用技术做出既好看又实用的作品。**伊蕾娜** 是我最喜欢的角色，是我的本命，光是看到她心里就会安稳不少。
