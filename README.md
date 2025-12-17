@@ -24,12 +24,12 @@
 <div align="left">
   <img
     height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api?theme=transparent&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+    src="https://card.yumeyuka.plus/api?theme=transparent&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
     alt="YumeYuka 的 GitHub 统计"
   />
   <img
     height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=transparent&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+    src="https://card.yumeyuka.plus/api/top-langs/?theme=transparent&username=YumeYuka&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
     alt="YumeYuka 的常用语言"
   />
 </div>
