@@ -24,7 +24,7 @@
 <div align="left">
   <img
     height="180"
-    src="https://card.yumeyuka.plus/api?theme=transparent&username=YumeYuka&rank_icon=percentile&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff69b4"
+    src="https://card.yumeyuka.plus/api?theme=transparent&username=YumeYuka&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=ff69b4&text_color=ea4c89&icon_color=ffb6d5&border_color=ff67b4"
     alt="YumeYuka 的 GitHub 统计"
   />
   <img
