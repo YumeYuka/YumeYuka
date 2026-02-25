@@ -1,7 +1,7 @@
 ## 梦璃魔女的小作坊
 
  **Ciallo～(∠・ω< )⌒★**
-<img src="img/ResizedImage_2025-11-28_19-01-00_1.png" alt="梦璃酱" width="170" align="right" style="margin-left: 15px;">
+<img src="img/1771652418893.png" alt="梦璃酱" width="200" align="right" style="margin-left: 15px;">
 
 你好你好，我是 **梦璃**（´∀｀）
 
