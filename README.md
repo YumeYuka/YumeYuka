@@ -1,4 +1,4 @@
-## 夢璃魔女の小さなアトリエ
+## 夢璃の小さなアトリエ
 
 **Ciallo～(∠・ω< )⌒★** <img src="img/1771652418893_upscayl_3x_upscayl-standard-4x.png" alt="夢璃ちゃん" width="200" align="right" style="margin-left: 15px;">
 
