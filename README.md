@@ -1,17 +1,7 @@
 ## 夢璃の小さなアトリエ
 
-**Ciallo～(∠・ω< )⌒★**
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="img/character_1main_2.png"
-  >
-  <img
-    src="img/1771652418893_upscayl_3x_upscayl-standard-4x.png"
-    alt="夢璃ちゃん"
-    style="width:200px; float:right; margin-left:15px;"
-  >
-</picture>
+**Ciallo～(∠・ω< )⌒★** <picture><source media="(prefers-color-scheme: dark)" srcset="img/character_1main_2.png"><img src="img/1771652418893_upscayl_3x_upscayl-standard-4x.png" alt="夢璃ちゃん" style="width:200px; float:right; margin-left:15px;"></picture>
+
 
 
 
