@@ -25,7 +25,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://card.shiina.xyz/card/YumeYuka?theme=radical"
+    srcset="https://card.shiina.xyz/card/yumeyuka?hide_langs=mdx&lang_count=10&theme=radical"
   />
-  <img src="https://card.shiina.xyz/card/YumeYuka" alt="GitHub Stats" />
+  <img src="https://card.shiina.xyz/card/yumeyuka?hide_langs=mdx&lang_count=10" alt="GitHub Stats" />
 </picture>
