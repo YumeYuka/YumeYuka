@@ -3,7 +3,7 @@
 **Ciallo～(∠・ω< )⌒★** <img src="img/ResizedImage_2025-11-28_19-01-00_1.png" alt="梦璃酱" width="210" align="right" style="margin-left: 20px;">
 
 
-初次见面，我是 桜川夢璃，也可以叫我 梦璃酱
+初次见面，我是 **桜川夢璃**，也可以叫我 **梦璃酱**
 
 喜欢写代码，也希望把日常生活点缀得稍微甜一点的工程师
 
@@ -16,4 +16,7 @@
 </br>
 </br>
 
+***真正的成长并非抹杀过去的自己，而是在接纳伤 痛后,依然有选择善良的勇气***
+
+---
 <img width="1280" height="720" alt="65febf2342e06" src="https://github.com/user-attachments/assets/656c15e3-370d-48d7-acf6-c68eafd93e69" />
