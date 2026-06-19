@@ -3,29 +3,17 @@
 **Ciallo～(∠・ω< )⌒★** <img src="img/ResizedImage_2025-11-28_19-01-00_1.png" alt="梦璃酱" width="210" align="right" style="margin-left: 20px;">
 
 
+初次见面，我是 桜川夢璃，也可以叫我 梦璃酱
 
+喜欢写代码，也希望把日常生活点缀得稍微甜一点的工程师
 
-はじめまして、**夢璃（ユメリ / Yumeri**です（´∀｀）
+喜欢安静地做点事情，也喜欢追番。 日子大多在屏幕前度过，一会儿敲点东西，一会儿看点喜欢的内容，在两种世界之间慢慢切换（´-\）
 
-コードを書くのが好きで、日常をほんの少し甘く彩りたいと思っているエンジニアです。
+最近突然喜欢上了 GalGame，希望自己将来能做出自己的 GalGame
 
-静かに何かを作業するのも好きだし、アニメを追うのも好きです。日々の多くはスクリーンの前で過ごしています。少し打ち込み、少し好きなものを眺めながら、二つの世界のあいだをゆっくり行き来しています（´-`）
-
-効率を強く求めるタイプではなく、どちらかといえば過程を大切にしています。「どれだけやったか」よりも、自分が本当に好きだと思えるものを残していきたい。まだ成長の途中で、進む方向も模索中ですが、ここに少しずつ、やさしい小さな成果を積み重ねていけたらと思っています（ ´ ▽ ` ）
-
-
-*本当の成長とは、過去の自分を否定することではなく、
-痛みを受け入れたうえで、それでも優しさを選ぶ勇気を持つこと。*
+不太追求效率，更在意过程。 比起「做了多少」，更希望留下些什么是自己真正喜欢的。 还在成长中，也在摸索自己的方向，希望这里能慢慢堆起一些温柔的小成果( ´ ▽ \ )
 
 </br>
 </br>
 
-## ちいさな実績たち
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://card.shiina.xyz/card/yumeyuka?hide_langs=mdx&lang_count=10&theme=radical"
-  />
-  <img src="https://card.shiina.xyz/card/yumeyuka?hide_langs=mdx&lang_count=10" alt="GitHub Stats" />
-</picture>
+<img width="1280" height="720" alt="65febf2342e06" src="https://github.com/user-attachments/assets/656c15e3-370d-48d7-acf6-c68eafd93e69" />
