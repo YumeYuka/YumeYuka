@@ -19,4 +19,4 @@
 ***真正的成长并非抹杀过去的自己，而是在接纳伤 痛后,依然有选择善良的勇气***
 
 ---
-<img width="1280" height="720" alt="65febf2342e06" src="https://github.com/user-attachments/assets/656c15e3-370d-48d7-acf6-c68eafd93e69" />
+<img width="1280" height="720" alt="65febf2342e06" src="./img/新海天.webp" />
